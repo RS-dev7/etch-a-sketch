@@ -1,2 +1,3 @@
 # etch-a-sketch
-My Etch-a-sketch Website from The Odin Project
+
+This is my solution for the Etch-a-Sketch project on the JS Fundamentals course of The Odin Project
