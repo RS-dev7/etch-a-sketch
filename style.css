@@ -1,0 +1,32 @@
+html {
+    padding: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #EEF4ED;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    max-width: 500px;
+    margin:auto;
+}
+
+#container {
+    border: #8DA9C4;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 10px;
+    display: grid;
+    height: 600px;
+    width: 600px;
+}
+
+.gridElement {
+    background-color: #FCF7F8;
+    border: #8DA9C4;
+    border-radius: 6px;
+}
+
+.gridElement.active {
+    background-color: #75B8C8;
+}
